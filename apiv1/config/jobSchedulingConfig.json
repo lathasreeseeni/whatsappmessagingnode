@@ -1,0 +1,9 @@
+{
+    "sendNotificationsHours":"",
+    "sendNotificationsMinutes":"",
+    "genarateDailyReportsHour":"",
+    "genarateDailyReportsMinutes":"",
+    "sendRecodsLimit":8,
+    "sleepTime":1000
+    
+  }
